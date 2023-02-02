@@ -1,6 +1,10 @@
 # Mascotas
 CRUD de mascotitas
 
+![Screenshot from 2023-02-02 11-43-16](https://user-images.githubusercontent.com/4139736/216396043-94d81a67-3474-4b26-ba23-3c9beed1d30e.png)
+![Screenshot from 2023-02-02 12-19-20](https://user-images.githubusercontent.com/4139736/216396108-39b76194-20c6-4f6e-bb2b-626ab6d75f8c.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -8,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
